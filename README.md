@@ -1,6 +1,6 @@
 # Challenge Overview
 
-Module 2’s challenge was to take our original code that found the total daily volumes and returns of the 12 stocks and refactor the code using arrays. The purpose was to see if the refactored code resulted in faster results. The theory being that using a tickerIndex to loop through the data only once and arrays to store the results as they were found would make the code faster.
+Module 2’s challenge was to take our original stock analysis code that found the total daily volumes and returns of the 12 stocks and refactor the code using arrays. The purpose was to see if the refactored code resulted in faster results. The theory being that using a tickerIndex to loop through the data only once and arrays to store the results as they were found would make the code faster.
 
 # Results of Refactoring Using Arrays
 
